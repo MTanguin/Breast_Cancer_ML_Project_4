@@ -1,13 +1,7 @@
 # UTOR_Project4_Team5
 Credits:
 
-Ahmed Abdelrahman
-
-Andreza dos Santos
-
-Muhammad Hassan
-
-Marivic Tanguin
+Ahmed Abdelrahman | Andreza dos Santos | Muhammad Hassan | Marivic Tanguin
 
 
 #UTOR_Project4_Team5

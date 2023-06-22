@@ -1,10 +1,9 @@
-# UTOR_Project4_Team5
+#### UTOR_Project4_Team5
 Credits:
 
 Ahmed Abdelrahman | Andreza dos Santos | Muhammad Hassan | Marivic Tanguin
 
 
-####UTOR_Project4_Team5
 #Comparing Different Machine Learning Models for Breast Cancer Diagnosis
 
 

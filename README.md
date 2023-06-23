@@ -1,4 +1,4 @@
-#### UTOR_Project4_Team5
+#### "Performing supervised learning techniques to find out the most effective in accurately classifying breast cancer as malignant or benign"
 Credits:
 
 Ahmed Abdelrahman | Andreza dos Santos | Muhammad Hassan | Marivic Tanguin

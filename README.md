@@ -37,21 +37,33 @@ Among the various supervised learning algorithms to be evaluated in this study u
 
 ## Methods
 
-### Machine Learning Analysis Performed
-Diagnosis of breast masses as benign or malignant: Machine learning analysis was performed on this dataset to build a predictive model that can distinguish between benign and malignant breast masses.
+### Machine Learning Techniques
+In this project, we aim to develop a predictive model to diagnose breast masses as either benign or malignant using machine learning algorithms. The dataset contains features related to breast mass characteristics, and we will utilize supervised learning techniques to train and evaluate multiple models for accurate classification.
 
-### Diagnosis of breast masses ( benign or malignant)
-The problem of diagnosing breast cancer as malignant or benign is a binary classification problem, as there are only two possible outcomes. Therefore, we can build a binary classification model using supervised learning algorithms.
+### Problem Identification
+The problem at hand involves binary classification, where the goal is to distinguish between benign and malignant breast masses. By analyzing the dataset, we can build a predictive model that can accurately classify future breast masses based on their characteristics.
 
-6 supervised learning models will be compared to identify the most optimum algorithm for this data set.
+### Supervised Learning Algorithms
+We will explore six different supervised learning algorithms to determine the optimal approach for this dataset. These algorithms include:
 
-### Supervised learning algorithms to explore are:
-  - Logistic Regression
-  - Decision Tree
-  - Random Forest
-  - Support Vector Machine (SVM)
-  - Neural Network
-  - K-Nearest-Neighbour (KNN)
+1. Logistic Regression: This algorithm models the relationship between the features and the probability of a breast mass being benign or malignant.
+
+2. Decision Tree: This algorithm uses a hierarchical structure of decisions based on features to classify breast masses.
+
+3. Random Forest: A collection of decision trees that work together to classify breast masses based on different subsets of features.
+
+4. Support Vector Machine (SVM): This algorithm finds a hyperplane that maximally separates the two classes (benign and malignant) in a high-dimensional feature space.
+
+5. Neural Network: A deep learning algorithm that uses an interconnected network of nodes (neurons) to classify breast masses based on learned patterns.
+
+6. K-Nearest Neighbors (KNN): This algorithm classifies breast masses by comparing their features to the k nearest neighbors in the training data.
+
+### Model Evaluation and Selection
+Each algorithm will be trained and evaluated using appropriate metrics such as accuracy, precision, recall, and F1-score. The performance of the models will be compared to identify the most optimal algorithm for this particular dataset.
+
+The selected algorithm will be further fine-tuned using techniques such as hyperparameter optimization to maximize its performance. The final model will be saved and deployed for real-time breast mass classification.
+
+The project will be documented in the readme.md file, providing details about the dataset, objectives, methods, and key findings from the machine learning analysis.
 
 
 ## Results

@@ -1,11 +1,6 @@
 #### "Performing supervised learning techniques to find out the most effective in accurately classifying breast cancer as malignant or benign"
 Credits:
-
 Ahmed Abdelrahman | Andreza dos Santos | Muhammad Hassan | Marivic Tanguin
-
-
-#Comparing Different Machine Learning Models for Breast Cancer Diagnosis
-
 
 ## Comparing Supervised Machine Learning Algorithms for Breast Cancer Diagnosis
 

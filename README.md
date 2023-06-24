@@ -7,7 +7,7 @@ Ahmed Abdelrahman | Andreza dos Santos | Muhammad Hassan | Marivic Tanguin
 #Comparing Different Machine Learning Models for Breast Cancer Diagnosis
 
 
-# Comparing Supervised Machine Learning Algorithms for Breast Cancer Diagnosis
+## Comparing Supervised Machine Learning Algorithms for Breast Cancer Diagnosis
 
 [Data Extraction](https://github.com/Ahmadhha/UTOR_Project4_Team5/blob/main/Data%20Extraction.ipynb)
 

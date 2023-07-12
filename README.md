@@ -94,8 +94,8 @@ The Breast Cancer Wisconsin (Diagnostic) dataset is made available for academic 
 
 Sources: 
 
-https://www.iarc.who.int/news-events/current-and-future-burden-of-breast-cancer-global-statistics-for-2020-and-2040/
+[WHO](https://www.iarc.who.int/news-events/current-and-future-burden-of-breast-cancer-global-statistics-for-2020-and-2040/)
 
-https://www.cancer.gov/types/breast/patient/breast-screening-pdq
+[www.cancer.gov](https://www.cancer.gov/types/breast/patient/breast-screening-pdq)
 
-https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data
+[kaggle.com](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
